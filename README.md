@@ -24,7 +24,7 @@ This project is a CRUD (Create, Read, Update, Delete) application built using Re
 
 **Usage 🛠️**
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/yourusername/CRUD-Application-using-React-Redux-Toolkit. 
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/sakshi8078/CRUD-Application-using-React-Redux-Toolkit. 
 
 Install Dependencies: Navigate to the project directory and install dependencies using npm install. 
 
